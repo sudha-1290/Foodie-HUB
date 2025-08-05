@@ -4,7 +4,7 @@ A modern, full-featured food delivery application built with React, TypeScript, 
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://dynamic-marzipan-1bc9c7.netlify.app](https://dynamic-marzipan-1bc9c7.netlify.app)
+Visit the live application: [https://foodie-hub-mess.netlify.app/](https://foodie-hub-mess.netlify.app/)
 
 ## ✨ Features
 
@@ -48,8 +48,8 @@ Visit the live application: [https://dynamic-marzipan-1bc9c7.netlify.app](https:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd foodiehub
+   git clone https://github.com/sudha-1290/Foodie-HUB
+   cd Foodie-HUB
    ```
 
 2. **Install dependencies**
